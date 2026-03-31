@@ -1,4 +1,4 @@
-## Download and install a simple tic tac toe game
+## Download and install a simple tic tac toe game 
 
 # Getting Started with Create React App
 
